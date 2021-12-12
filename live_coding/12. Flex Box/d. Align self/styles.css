@@ -1,0 +1,22 @@
+.box {
+    height: 100px;
+    width: 100px;
+    background-color: coral;
+    margin: 5px;
+
+
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 400px;
+    background-color: lightgray;
+
+
+
+}
+.self {
+    align-self: center;
+}
